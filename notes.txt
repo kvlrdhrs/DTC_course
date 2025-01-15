@@ -1,0 +1,1 @@
+1. I shoud take a look to Integration test ( CI/CD)
