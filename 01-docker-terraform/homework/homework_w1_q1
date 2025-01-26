@@ -1,5 +1,0 @@
-#Question1
-
-docker run -it python:3.12.8 bash
-pip --version
-ANSWER: pip 24.3.1
